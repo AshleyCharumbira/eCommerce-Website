@@ -162,7 +162,7 @@ session_start();
                     <li  style="font-size: 18px; color: white; text-align: center; padding: 10px 0;"><a href='profile.php?edit_account' class='nav-link text-light'>Edit Profile</a></li>
                     <li  style="font-size: 18px; color: white; text-align: center; padding: 10px 0;"><a href='profile.php?delete_account' class='nav-link text-light'>Delete Profile</a></li>
                     <li  style="font-size: 18px; color: white; text-align: center; padding: 10px 0;"><a href='profile.php?order_history' class='nav-link text-light'>Order History</a></li>
-                    <li  style="font-size: 18px; color: white; text-align: center; padding: 10px 0;"><a href='logout.php' class='nav-link text-light'>Logout</a></li>
+                    <li  style="font-size: 18px; color: white; text-align: center; padding: 10px 0;"><a href='logout.php' class='nav-link text-light'>Sign Out</a></li>
 
 
                 </ul>
